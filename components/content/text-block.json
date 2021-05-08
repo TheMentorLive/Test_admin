@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_content_text_blocks",
+  "info": {
+    "name": "text-block",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    },
+    "field": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
